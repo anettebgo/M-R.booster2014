@@ -1,6 +1,6 @@
 #! /usr/bin/env Rscript
 
-data.size = 100000
+data.size = 10000000
 
 id = format(seq.int(from=1, to=data.size, by=1), scientific=FALSE)
 
@@ -23,5 +23,7 @@ shop.name = paste(sample(first, size=data.size, replace=TRUE), sample(last, size
 
 
 data = cbind(id, date, service, location, shop.name, currency, amount.paid)
+subset = head(data, 20)
 
 write.table(data, file="bank.csv", sep="\t", quote=FALSE, row.names=FALSE, col.names=FALSE)
+write.table(subset, file="bank_sample_with_headings.csv", sep="\t", quote=FALSE, row.names=FALSE, col.names=TRUE)

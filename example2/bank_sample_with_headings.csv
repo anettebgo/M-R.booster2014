@@ -1,0 +1,21 @@
+id	date	service	location	shop.name	currency	amount.paid
+      1	2013-09-01	Service	Online	karis bøker	NOK	168
+      2	2013-09-01	Goods	Online	petters blomster	GBP	630
+      3	2013-09-01	Service	InStore	karis bøker	NOK	448
+      4	2013-09-01	Goods	Online	petters bøker	NOK	95
+      5	2013-09-01	Service	InStore	amazon bøker	NOK	729
+      6	2013-09-01	Service	InStore	karis bøker	NOK	319
+      7	2013-09-01	Goods	Online	karis blomster	NOK	334
+      8	2013-09-01	Goods	Online	petters blomster	AUD	351
+      9	2013-09-01	Service	Online	petters blomster	NOK	484
+     10	2013-09-01	Goods	Online	amazon verktøy	NOK	536
+     11	2013-09-01	Goods	InStore	petters bøker	NOK	862
+     12	2013-09-01	Goods	Online	karis bøker	NOK	762
+     13	2013-09-01	Goods	Online	karis verktøy	NOK	29
+     14	2013-09-01	Goods	InStore	karis verktøy	GBP	698
+     15	2013-09-01	Goods	Online	amazon verktøy	AUD	935
+     16	2013-09-01	Goods	Online	petters verktøy	NOK	944
+     17	2013-09-01	Goods	Online	petters blomster	EUR	126
+     18	2013-09-01	Goods	InStore	karis blomster	NOK	765
+     19	2013-09-01	Service	Online	petters verktøy	NOK	148
+     20	2013-09-01	Service	InStore	amazon verktøy	NOK	389
