@@ -1,100 +1,100 @@
-     1	2013-09-01	2013-09-08	petters bøker	7 bigstreet	Norge	kari saksevik	4 storegaten	601
-     2	2013-09-01	2013-09-08	amazon blomster	9 bigstreet	Norge	petter singh	4 lillegaten	701
-     3	2013-09-01	2013-09-08	amazon blomster	1 storegaten	Norge	sha surrehode	7 lillegaten	298
-     4	2013-09-01	2013-09-08	petters blomster	9 lillegaten	Australia	kari singh	4 bigstreet	146
-     5	2013-09-01	2013-09-08	karis blomster	2 storegaten	Norge	alex surrehode	3 littlestreet	196
-     6	2013-09-01	2013-09-08	karis verktøy	8 bigstreet	Deutschland	alex surrehode	6 lillegaten	64
-     7	2013-09-01	2013-09-08	petters blomster	4 bigstreet	Norge	petter saksevik	11 lillegaten	402
-     8	2013-09-01	2013-09-08	amazon blomster	11 storegaten	Norge	rob smith	4 storegaten	436
-     9	2013-09-01	2013-09-08	petters blomster	6 littlestreet	Norge	sha saksevik	1 littlestreet	358
-    10	2013-09-01	2013-09-08	amazon verktøy	4 bigstreet	Norge	petter smith	11 littlestreet	925
-    11	2013-09-01	2013-09-08	amazon blomster	8 lillegaten	Norge	kari singh	7 storegaten	67
-    12	2013-09-01	2013-09-08	karis blomster	4 lillegaten	Deutschland	ola smith	11 lillegaten	783
-    13	2013-09-01	2013-09-08	amazon blomster	2 littlestreet	Norge	sha smith	6 littlestreet	102
-    14	2013-09-01	2013-09-08	amazon blomster	8 bigstreet	Norge	kari surrehode	4 littlestreet	817
-    15	2013-09-01	2013-09-08	petters verktøy	10 storegaten	Great Britain	kari saksevik	2 lillegaten	793
-    16	2013-09-01	2013-09-08	karis bøker	6 bigstreet	Norge	ola singh	5 bigstreet	286
-    17	2013-09-01	2013-09-08	amazon bøker	9 storegaten	Great Britain	kari saksevik	6 littlestreet	837
-    18	2013-09-01	2013-09-08	karis verktøy	4 bigstreet	Deutschland	kari surrehode	12 bigstreet	889
-    19	2013-09-01	2013-09-08	karis bøker	2 storegaten	Norge	kari surrehode	5 lillegaten	610
-    20	2013-09-01	2013-09-08	petters blomster	3 lillegaten	Norge	ola singh	11 storegaten	824
-    21	2013-09-01	2013-09-08	petters blomster	11 storegaten	Norge	kari saksevik	7 littlestreet	171
-    22	2013-09-01	2013-09-08	karis bøker	5 bigstreet	Norge	sha saksevik	3 bigstreet	548
-    23	2013-09-01	2013-09-08	petters blomster	5 bigstreet	Norge	alex surrehode	5 lillegaten	450
-    24	2013-09-01	2013-09-08	karis bøker	9 storegaten	Norge	sha singh	2 bigstreet	359
-    25	2013-09-01	2013-09-08	amazon verktøy	12 bigstreet	Norge	rob surrehode	4 lillegaten	955
-    26	2013-09-01	2013-09-08	karis bøker	7 storegaten	Great Britain	kari singh	2 littlestreet	828
-    27	2013-09-01	2013-09-08	amazon bøker	3 bigstreet	Australia	alex smith	2 littlestreet	180
-    28	2013-09-01	2013-09-08	karis bøker	3 lillegaten	Great Britain	petter surrehode	9 storegaten	321
-    29	2013-09-01	2013-09-08	petters bøker	12 littlestreet	Norge	kari saksevik	5 lillegaten	794
-    30	2013-09-01	2013-09-08	karis verktøy	2 lillegaten	Norge	alex smith	6 littlestreet	898
-    31	2013-09-01	2013-09-08	petters blomster	7 storegaten	Norge	sha smith	5 storegaten	80
-    32	2013-09-01	2013-09-08	karis blomster	8 storegaten	Deutschland	petter singh	9 storegaten	588
-    33	2013-09-01	2013-09-08	petters blomster	3 lillegaten	Norge	petter smith	5 littlestreet	84
-    34	2013-09-01	2013-09-08	amazon blomster	9 storegaten	Great Britain	petter surrehode	8 storegaten	848
-    35	2013-09-01	2013-09-08	karis blomster	9 bigstreet	Norge	sha singh	3 storegaten	327
-    36	2013-09-01	2013-09-08	amazon blomster	7 littlestreet	Australia	petter singh	7 storegaten	490
-    37	2013-09-01	2013-09-08	karis bøker	10 storegaten	Norge	kari singh	8 storegaten	436
-    38	2013-09-01	2013-09-08	karis verktøy	6 bigstreet	Norge	ola saksevik	7 storegaten	128
-    39	2013-09-01	2013-09-08	amazon verktøy	8 lillegaten	Norge	sha saksevik	9 lillegaten	62
-    40	2013-09-01	2013-09-08	karis bøker	12 bigstreet	Great Britain	rob saksevik	8 littlestreet	296
-    41	2013-09-01	2013-09-08	karis blomster	4 storegaten	Norge	petter singh	5 littlestreet	836
-    42	2013-09-01	2013-09-08	karis bøker	5 bigstreet	Deutschland	rob smith	7 bigstreet	333
-    43	2013-09-01	2013-09-08	karis bøker	8 bigstreet	Norge	kari surrehode	4 bigstreet	795
-    44	2013-09-01	2013-09-08	amazon bøker	3 littlestreet	Great Britain	kari surrehode	1 bigstreet	582
-    45	2013-09-01	2013-09-08	karis bøker	3 bigstreet	Norge	alex smith	9 bigstreet	343
-    46	2013-09-01	2013-09-08	petters blomster	4 littlestreet	Norge	rob smith	2 littlestreet	559
-    47	2013-09-01	2013-09-08	amazon blomster	1 bigstreet	Norge	alex saksevik	6 littlestreet	534
-    48	2013-09-01	2013-09-08	karis blomster	9 storegaten	Australia	rob singh	7 littlestreet	794
-    49	2013-09-01	2013-09-08	karis verktøy	9 storegaten	Norge	ola smith	6 littlestreet	304
-    50	2013-09-01	2013-09-08	amazon verktøy	10 storegaten	Norge	alex smith	10 bigstreet	441
-    51	2013-09-01	2013-09-08	amazon verktøy	9 lillegaten	Norge	sha smith	8 lillegaten	811
-    52	2013-09-01	2013-09-08	petters blomster	7 bigstreet	Australia	ola surrehode	8 littlestreet	117
-    53	2013-09-01	2013-09-08	karis bøker	6 littlestreet	Norge	kari smith	12 bigstreet	435
-    54	2013-09-01	2013-09-08	karis bøker	5 bigstreet	Norge	sha smith	5 bigstreet	18
-    55	2013-09-01	2013-09-08	amazon bøker	2 lillegaten	Norge	ola saksevik	12 storegaten	31
-    56	2013-09-01	2013-09-08	amazon bøker	3 lillegaten	Norge	rob surrehode	4 storegaten	142
-    57	2013-09-01	2013-09-08	amazon bøker	9 lillegaten	Norge	rob surrehode	5 littlestreet	237
-    58	2013-09-01	2013-09-08	amazon bøker	9 bigstreet	Great Britain	ola singh	7 littlestreet	310
-    59	2013-09-01	2013-09-08	amazon bøker	8 lillegaten	Norge	rob surrehode	12 storegaten	330
-    60	2013-09-01	2013-09-08	petters bøker	11 bigstreet	Deutschland	petter singh	9 lillegaten	17
-    61	2013-09-01	2013-09-08	amazon blomster	6 littlestreet	Norge	sha smith	6 storegaten	505
-    62	2013-09-01	2013-09-08	karis verktøy	6 littlestreet	Great Britain	petter saksevik	8 littlestreet	828
-    63	2013-09-01	2013-09-08	karis blomster	12 littlestreet	Deutschland	petter saksevik	8 storegaten	245
-    64	2013-09-01	2013-09-08	amazon verktøy	6 littlestreet	Great Britain	alex smith	11 lillegaten	543
-    65	2013-09-01	2013-09-08	petters bøker	5 storegaten	Norge	sha smith	6 lillegaten	371
-    66	2013-09-01	2013-09-08	karis bøker	8 littlestreet	Great Britain	rob surrehode	1 littlestreet	273
-    67	2013-09-01	2013-09-08	karis bøker	5 lillegaten	Norge	rob surrehode	3 storegaten	299
-    68	2013-09-01	2013-09-08	karis blomster	2 storegaten	Norge	kari surrehode	12 lillegaten	391
-    69	2013-09-01	2013-09-08	amazon bøker	5 littlestreet	Norge	rob surrehode	6 bigstreet	316
-    70	2013-09-01	2013-09-08	petters bøker	5 bigstreet	Deutschland	rob smith	3 lillegaten	54
-    71	2013-09-01	2013-09-08	karis blomster	12 lillegaten	Great Britain	alex surrehode	6 lillegaten	714
-    72	2013-09-01	2013-09-08	petters verktøy	8 storegaten	Deutschland	rob saksevik	7 storegaten	160
-    73	2013-09-01	2013-09-08	petters verktøy	2 littlestreet	Norge	sha saksevik	10 lillegaten	701
-    74	2013-09-01	2013-09-08	petters bøker	6 littlestreet	Norge	rob saksevik	1 lillegaten	234
-    75	2013-09-01	2013-09-08	petters bøker	9 littlestreet	Norge	ola surrehode	6 bigstreet	418
-    76	2013-09-01	2013-09-08	amazon verktøy	4 bigstreet	Norge	ola singh	2 bigstreet	586
-    77	2013-09-01	2013-09-08	petters bøker	10 bigstreet	Norge	ola surrehode	11 bigstreet	911
-    78	2013-09-01	2013-09-08	karis bøker	8 bigstreet	Great Britain	rob smith	7 lillegaten	854
-    79	2013-09-01	2013-09-08	karis bøker	7 storegaten	Deutschland	petter singh	11 storegaten	470
-    80	2013-09-01	2013-09-08	karis verktøy	3 storegaten	Deutschland	petter surrehode	11 bigstreet	208
-    81	2013-09-01	2013-09-08	karis blomster	10 lillegaten	Norge	petter saksevik	3 bigstreet	664
-    82	2013-09-01	2013-09-08	amazon verktøy	5 bigstreet	Norge	alex singh	12 bigstreet	592
-    83	2013-09-01	2013-09-08	petters verktøy	3 lillegaten	Norge	petter saksevik	4 littlestreet	802
-    84	2013-09-01	2013-09-08	amazon blomster	6 littlestreet	Norge	ola smith	5 storegaten	975
-    85	2013-09-01	2013-09-08	petters blomster	10 lillegaten	Norge	alex singh	12 lillegaten	563
-    86	2013-09-01	2013-09-08	karis bøker	2 littlestreet	Norge	ola surrehode	3 lillegaten	284
-    87	2013-09-01	2013-09-08	amazon verktøy	11 lillegaten	Australia	kari smith	11 storegaten	516
-    88	2013-09-01	2013-09-08	petters blomster	5 storegaten	Norge	petter singh	3 littlestreet	845
-    89	2013-09-01	2013-09-08	petters bøker	3 bigstreet	Norge	alex singh	7 storegaten	484
-    90	2013-09-01	2013-09-08	petters verktøy	10 lillegaten	Norge	alex surrehode	8 bigstreet	210
-    91	2013-09-01	2013-09-08	petters verktøy	7 bigstreet	Norge	ola saksevik	11 storegaten	534
-    92	2013-09-01	2013-09-08	amazon blomster	3 littlestreet	Norge	ola singh	4 bigstreet	893
-    93	2013-09-01	2013-09-08	amazon blomster	5 bigstreet	Norge	alex surrehode	4 storegaten	929
-    94	2013-09-01	2013-09-08	petters verktøy	12 lillegaten	Norge	petter smith	6 littlestreet	21
-    95	2013-09-01	2013-09-08	amazon blomster	3 littlestreet	Norge	ola saksevik	10 lillegaten	423
-    96	2013-09-01	2013-09-08	amazon blomster	7 bigstreet	Australia	alex surrehode	4 littlestreet	40
-    97	2013-09-01	2013-09-08	petters blomster	11 bigstreet	Norge	alex smith	11 lillegaten	681
-    98	2013-09-01	2013-09-08	petters verktøy	5 storegaten	Norge	sha surrehode	7 littlestreet	875
-    99	2013-09-01	2013-09-08	amazon bøker	1 bigstreet	Norge	ola surrehode	10 littlestreet	603
-   100	2013-09-01	2013-09-08	petters blomster	10 storegaten	Deutschland	rob smith	12 storegaten	881
+      1	2013-09-01	2013-09-08	karis verktøy	6 lillegaten	Great Britain	ola singh	5 littlestreet	329
+      2	2013-09-01	2013-09-08	amazon bøker	9 storegaten	Norge	sha surrehode	7 littlestreet	389
+      3	2013-09-01	2013-09-08	karis bøker	7 littlestreet	Norge	ola singh	5 storegaten	975
+      4	2013-09-01	2013-09-08	amazon bøker	5 storegaten	Norge	rob saksevik	4 storegaten	118
+      5	2013-09-01	2013-09-08	amazon verktøy	3 bigstreet	Great Britain	kari singh	8 littlestreet	763
+      6	2013-09-01	2013-09-08	petters bøker	10 storegaten	Norge	petter surrehode	7 littlestreet	118
+      7	2013-09-01	2013-09-08	karis blomster	2 bigstreet	Australia	alex smith	2 lillegaten	692
+      8	2013-09-01	2013-09-08	amazon verktøy	5 storegaten	Australia	petter smith	11 lillegaten	357
+      9	2013-09-01	2013-09-08	karis bøker	4 bigstreet	Norge	petter singh	10 lillegaten	372
+     10	2013-09-01	2013-09-08	amazon blomster	4 storegaten	Norge	sha singh	6 lillegaten	517
+     11	2013-09-01	2013-09-08	karis bøker	11 lillegaten	Australia	kari singh	5 storegaten	784
+     12	2013-09-01	2013-09-08	petters blomster	7 bigstreet	Great Britain	sha singh	2 bigstreet	124
+     13	2013-09-01	2013-09-08	amazon blomster	12 littlestreet	Norge	kari saksevik	8 littlestreet	362
+     14	2013-09-01	2013-09-08	karis bøker	3 littlestreet	Norge	sha smith	8 lillegaten	370
+     15	2013-09-01	2013-09-08	amazon bøker	1 lillegaten	Norge	kari saksevik	11 storegaten	562
+     16	2013-09-01	2013-09-08	karis blomster	5 lillegaten	Norge	sha surrehode	8 bigstreet	297
+     17	2013-09-01	2013-09-08	amazon bøker	11 bigstreet	Great Britain	rob surrehode	1 littlestreet	970
+     18	2013-09-01	2013-09-08	petters blomster	2 bigstreet	Norge	sha smith	3 lillegaten	694
+     19	2013-09-01	2013-09-08	karis bøker	5 storegaten	Norge	alex surrehode	9 storegaten	290
+     20	2013-09-01	2013-09-08	karis verktøy	8 littlestreet	Great Britain	alex singh	11 littlestreet	304
+     21	2013-09-01	2013-09-08	karis verktøy	6 bigstreet	Norge	kari saksevik	6 storegaten	979
+     22	2013-09-01	2013-09-08	karis blomster	3 bigstreet	Norge	alex smith	3 storegaten	619
+     23	2013-09-01	2013-09-08	amazon bøker	4 bigstreet	Norge	ola smith	5 bigstreet	923
+     24	2013-09-01	2013-09-08	karis verktøy	4 storegaten	Norge	rob singh	6 lillegaten	352
+     25	2013-09-01	2013-09-08	karis bøker	2 bigstreet	Norge	kari smith	3 littlestreet	80
+     26	2013-09-01	2013-09-08	amazon verktøy	8 storegaten	Deutschland	kari smith	5 littlestreet	849
+     27	2013-09-01	2013-09-08	amazon blomster	12 lillegaten	Norge	petter singh	10 bigstreet	721
+     28	2013-09-01	2013-09-08	petters blomster	2 lillegaten	Norge	ola smith	10 storegaten	964
+     29	2013-09-01	2013-09-08	amazon blomster	10 lillegaten	Deutschland	sha smith	10 lillegaten	372
+     30	2013-09-01	2013-09-08	karis blomster	2 storegaten	Deutschland	alex saksevik	1 littlestreet	553
+     31	2013-09-01	2013-09-08	petters blomster	1 bigstreet	Norge	kari saksevik	12 lillegaten	464
+     32	2013-09-01	2013-09-08	petters bøker	5 lillegaten	Deutschland	ola surrehode	1 lillegaten	233
+     33	2013-09-01	2013-09-08	amazon bøker	5 lillegaten	Australia	rob singh	5 lillegaten	770
+     34	2013-09-01	2013-09-08	petters bøker	3 storegaten	Norge	ola saksevik	12 lillegaten	464
+     35	2013-09-01	2013-09-08	petters blomster	2 bigstreet	Great Britain	petter saksevik	1 storegaten	10
+     36	2013-09-01	2013-09-08	karis verktøy	9 lillegaten	Norge	petter surrehode	7 littlestreet	378
+     37	2013-09-01	2013-09-08	amazon verktøy	7 lillegaten	Deutschland	rob surrehode	9 littlestreet	904
+     38	2013-09-01	2013-09-08	amazon verktøy	1 littlestreet	Norge	sha singh	12 lillegaten	868
+     39	2013-09-01	2013-09-08	karis verktøy	2 storegaten	Deutschland	rob smith	8 lillegaten	920
+     40	2013-09-01	2013-09-08	karis blomster	5 littlestreet	Norge	alex smith	10 lillegaten	125
+     41	2013-09-01	2013-09-08	petters blomster	3 lillegaten	Norge	alex saksevik	8 storegaten	138
+     42	2013-09-01	2013-09-08	petters verktøy	4 littlestreet	Norge	sha singh	1 lillegaten	612
+     43	2013-09-01	2013-09-08	petters blomster	2 bigstreet	Norge	ola smith	8 lillegaten	736
+     44	2013-09-01	2013-09-08	amazon bøker	4 bigstreet	Norge	sha surrehode	10 storegaten	140
+     45	2013-09-01	2013-09-08	amazon bøker	4 bigstreet	Norge	petter surrehode	9 storegaten	691
+     46	2013-09-01	2013-09-08	karis bøker	11 littlestreet	Deutschland	alex saksevik	5 lillegaten	60
+     47	2013-09-01	2013-09-08	karis blomster	4 lillegaten	Great Britain	sha surrehode	10 storegaten	369
+     48	2013-09-01	2013-09-08	amazon verktøy	4 bigstreet	Norge	petter surrehode	9 littlestreet	989
+     49	2013-09-01	2013-09-08	petters blomster	5 bigstreet	Australia	alex saksevik	10 lillegaten	605
+     50	2013-09-01	2013-09-08	amazon verktøy	3 bigstreet	Norge	sha surrehode	9 lillegaten	517
+     51	2013-09-01	2013-09-08	petters blomster	7 littlestreet	Norge	sha smith	7 bigstreet	549
+     52	2013-09-01	2013-09-08	petters bøker	9 lillegaten	Norge	petter smith	9 storegaten	747
+     53	2013-09-01	2013-09-08	karis blomster	11 lillegaten	Norge	petter singh	6 bigstreet	814
+     54	2013-09-01	2013-09-08	amazon bøker	5 littlestreet	Deutschland	petter surrehode	6 storegaten	615
+     55	2013-09-01	2013-09-08	petters bøker	4 bigstreet	Norge	kari saksevik	2 lillegaten	867
+     56	2013-09-01	2013-09-08	amazon blomster	9 bigstreet	Norge	alex smith	10 littlestreet	280
+     57	2013-09-01	2013-09-08	amazon bøker	2 lillegaten	Norge	petter surrehode	6 lillegaten	183
+     58	2013-09-01	2013-09-08	karis blomster	3 storegaten	Norge	kari saksevik	4 bigstreet	152
+     59	2013-09-01	2013-09-08	amazon bøker	7 storegaten	Australia	sha singh	9 bigstreet	68
+     60	2013-09-01	2013-09-08	amazon verktøy	9 lillegaten	Norge	rob surrehode	7 bigstreet	455
+     61	2013-09-01	2013-09-08	petters blomster	3 littlestreet	Norge	alex singh	6 littlestreet	626
+     62	2013-09-01	2013-09-08	karis verktøy	7 bigstreet	Great Britain	rob smith	11 lillegaten	445
+     63	2013-09-01	2013-09-08	karis verktøy	12 storegaten	Norge	sha saksevik	8 storegaten	227
+     64	2013-09-01	2013-09-08	karis bøker	5 storegaten	Norge	alex saksevik	2 lillegaten	782
+     65	2013-09-01	2013-09-08	amazon blomster	11 storegaten	Norge	alex saksevik	9 littlestreet	90
+     66	2013-09-01	2013-09-08	petters verktøy	4 lillegaten	Norge	ola saksevik	4 bigstreet	635
+     67	2013-09-01	2013-09-08	karis blomster	4 lillegaten	Australia	sha singh	6 lillegaten	836
+     68	2013-09-01	2013-09-08	karis blomster	12 littlestreet	Norge	kari singh	12 lillegaten	244
+     69	2013-09-01	2013-09-08	petters blomster	11 bigstreet	Norge	rob smith	5 storegaten	716
+     70	2013-09-01	2013-09-08	petters verktøy	8 storegaten	Norge	kari singh	4 lillegaten	993
+     71	2013-09-01	2013-09-08	amazon bøker	7 lillegaten	Great Britain	rob surrehode	9 bigstreet	165
+     72	2013-09-01	2013-09-08	amazon blomster	7 bigstreet	Norge	kari smith	5 lillegaten	142
+     73	2013-09-01	2013-09-08	amazon verktøy	12 littlestreet	Norge	ola smith	5 storegaten	557
+     74	2013-09-01	2013-09-08	amazon blomster	10 bigstreet	Great Britain	rob singh	6 lillegaten	371
+     75	2013-09-01	2013-09-08	amazon bøker	8 lillegaten	Deutschland	alex singh	6 bigstreet	791
+     76	2013-09-01	2013-09-08	petters bøker	3 lillegaten	Norge	kari surrehode	7 littlestreet	274
+     77	2013-09-01	2013-09-08	amazon verktøy	11 littlestreet	Norge	kari singh	6 littlestreet	620
+     78	2013-09-01	2013-09-08	karis blomster	2 littlestreet	Deutschland	kari singh	11 lillegaten	179
+     79	2013-09-01	2013-09-08	petters verktøy	11 bigstreet	Norge	alex singh	4 storegaten	787
+     80	2013-09-01	2013-09-08	amazon bøker	1 bigstreet	Deutschland	alex saksevik	11 littlestreet	751
+     81	2013-09-01	2013-09-08	amazon blomster	11 lillegaten	Great Britain	rob saksevik	3 littlestreet	910
+     82	2013-09-01	2013-09-08	amazon verktøy	7 littlestreet	Norge	ola singh	7 littlestreet	704
+     83	2013-09-01	2013-09-08	karis blomster	1 lillegaten	Norge	petter smith	4 bigstreet	358
+     84	2013-09-01	2013-09-08	karis blomster	6 storegaten	Norge	kari smith	2 bigstreet	998
+     85	2013-09-01	2013-09-08	amazon bøker	7 storegaten	Norge	sha surrehode	1 littlestreet	357
+     86	2013-09-01	2013-09-08	petters verktøy	1 storegaten	Norge	sha smith	2 bigstreet	614
+     87	2013-09-01	2013-09-08	petters bøker	8 lillegaten	Australia	kari singh	9 storegaten	972
+     88	2013-09-01	2013-09-08	amazon blomster	11 bigstreet	Norge	alex saksevik	1 storegaten	187
+     89	2013-09-01	2013-09-08	petters verktøy	3 storegaten	Great Britain	rob saksevik	11 lillegaten	695
+     90	2013-09-01	2013-09-08	karis verktøy	10 storegaten	Great Britain	kari singh	6 littlestreet	99
+     91	2013-09-01	2013-09-08	petters bøker	1 storegaten	Norge	sha singh	12 storegaten	797
+     92	2013-09-01	2013-09-08	amazon bøker	6 storegaten	Deutschland	ola smith	2 littlestreet	632
+     93	2013-09-01	2013-09-08	karis bøker	7 bigstreet	Norge	sha saksevik	4 lillegaten	409
+     94	2013-09-01	2013-09-08	petters verktøy	2 storegaten	Norge	kari surrehode	1 lillegaten	398
+     95	2013-09-01	2013-09-08	amazon blomster	3 bigstreet	Australia	ola smith	2 storegaten	552
+     96	2013-09-01	2013-09-08	petters blomster	3 lillegaten	Norge	alex singh	6 littlestreet	554
+     97	2013-09-01	2013-09-08	petters blomster	4 lillegaten	Norge	sha surrehode	10 lillegaten	759
+     98	2013-09-01	2013-09-08	amazon blomster	4 bigstreet	Norge	sha surrehode	2 littlestreet	411
+     99	2013-09-01	2013-09-08	amazon blomster	12 lillegaten	Great Britain	sha saksevik	12 lillegaten	788
+    100	2013-09-01	2013-09-08	amazon verktøy	2 storegaten	Norge	kari surrehode	1 littlestreet	144
