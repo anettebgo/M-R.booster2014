@@ -1,100 +1,100 @@
-      1	2013-09-01	Service	Online	karis bøker	NOK	168
-      2	2013-09-01	Goods	Online	petters blomster	GBP	630
-      3	2013-09-01	Service	InStore	karis bøker	NOK	448
-      4	2013-09-01	Goods	Online	petters bøker	NOK	95
-      5	2013-09-01	Service	InStore	amazon bøker	NOK	729
-      6	2013-09-01	Service	InStore	karis bøker	NOK	319
-      7	2013-09-01	Goods	Online	karis blomster	NOK	334
-      8	2013-09-01	Goods	Online	petters blomster	AUD	351
-      9	2013-09-01	Service	Online	petters blomster	NOK	484
-     10	2013-09-01	Goods	Online	amazon verktøy	NOK	536
-     11	2013-09-01	Goods	InStore	petters bøker	NOK	862
-     12	2013-09-01	Goods	Online	karis bøker	NOK	762
-     13	2013-09-01	Goods	Online	karis verktøy	NOK	29
-     14	2013-09-01	Goods	InStore	karis verktøy	GBP	698
-     15	2013-09-01	Goods	Online	amazon verktøy	AUD	935
-     16	2013-09-01	Goods	Online	petters verktøy	NOK	944
-     17	2013-09-01	Goods	Online	petters blomster	EUR	126
-     18	2013-09-01	Goods	InStore	karis blomster	NOK	765
-     19	2013-09-01	Service	Online	petters verktøy	NOK	148
-     20	2013-09-01	Service	InStore	amazon verktøy	NOK	389
-     21	2013-09-01	Service	InStore	karis bøker	NOK	475
-     22	2013-09-01	Service	InStore	amazon bøker	NOK	54
-     23	2013-09-01	Goods	InStore	amazon blomster	AUD	40
-     24	2013-09-01	Goods	Online	petters blomster	NOK	912
-     25	2013-09-01	Service	InStore	petters verktøy	NOK	354
-     26	2013-09-01	Service	InStore	petters bøker	NOK	745
-     27	2013-09-01	Goods	Online	petters bøker	NOK	935
-     28	2013-09-01	Goods	Online	petters blomster	NOK	766
-     29	2013-09-01	Goods	InStore	amazon blomster	NOK	499
-     30	2013-09-01	Service	InStore	karis bøker	NOK	906
-     31	2013-09-01	Service	Online	petters blomster	EUR	649
-     32	2013-09-01	Goods	InStore	petters bøker	NOK	670
-     33	2013-09-01	Service	Online	karis blomster	NOK	348
-     34	2013-09-01	Service	InStore	karis verktøy	GBP	483
-     35	2013-09-01	Service	InStore	petters bøker	NOK	825
-     36	2013-09-01	Service	Online	petters bøker	NOK	367
-     37	2013-09-01	Goods	InStore	amazon bøker	NOK	200
-     38	2013-09-01	Goods	Online	petters bøker	NOK	648
-     39	2013-09-01	Service	InStore	petters verktøy	NOK	509
-     40	2013-09-01	Goods	InStore	amazon verktøy	NOK	707
-     41	2013-09-01	Goods	InStore	karis verktøy	GBP	284
-     42	2013-09-01	Goods	InStore	petters bøker	NOK	396
-     43	2013-09-01	Goods	InStore	amazon verktøy	NOK	442
-     44	2013-09-01	Service	InStore	petters verktøy	NOK	577
-     45	2013-09-01	Service	InStore	petters verktøy	NOK	369
-     46	2013-09-01	Service	Online	amazon bøker	AUD	819
-     47	2013-09-01	Goods	Online	karis bøker	NOK	608
-     48	2013-09-01	Goods	InStore	petters verktøy	NOK	579
-     49	2013-09-01	Service	Online	amazon blomster	NOK	35
-     50	2013-09-01	Goods	InStore	karis bøker	NOK	762
-     51	2013-09-01	Service	InStore	karis bøker	NOK	2
-     52	2013-09-01	Goods	Online	amazon bøker	NOK	279
-     53	2013-09-01	Service	Online	karis bøker	EUR	829
-     54	2013-09-01	Goods	Online	karis blomster	NOK	134
-     55	2013-09-01	Goods	InStore	petters verktøy	GBP	620
-     56	2013-09-01	Goods	InStore	petters blomster	GBP	652
-     57	2013-09-01	Service	InStore	amazon blomster	NOK	443
-     58	2013-09-01	Service	InStore	amazon verktøy	AUD	451
-     59	2013-09-01	Service	InStore	karis bøker	AUD	598
-     60	2013-09-01	Service	Online	petters bøker	GBP	213
-     61	2013-09-01	Service	InStore	petters bøker	AUD	392
-     62	2013-09-01	Service	InStore	petters verktøy	NOK	950
-     63	2013-09-01	Service	InStore	karis bøker	NOK	738
-     64	2013-09-01	Goods	InStore	amazon bøker	GBP	233
-     65	2013-09-01	Service	InStore	amazon bøker	AUD	946
-     66	2013-09-01	Service	InStore	karis verktøy	NOK	616
-     67	2013-09-01	Service	InStore	amazon bøker	GBP	53
-     68	2013-09-01	Service	InStore	petters bøker	NOK	607
-     69	2013-09-01	Goods	Online	karis blomster	NOK	78
-     70	2013-09-01	Goods	InStore	amazon bøker	GBP	77
-     71	2013-09-01	Goods	InStore	karis blomster	NOK	422
-     72	2013-09-01	Service	InStore	karis blomster	NOK	843
-     73	2013-09-01	Service	InStore	amazon verktøy	NOK	322
-     74	2013-09-01	Service	Online	karis blomster	EUR	68
-     75	2013-09-01	Service	Online	karis verktøy	NOK	518
-     76	2013-09-01	Service	InStore	karis verktøy	NOK	6
-     77	2013-09-01	Goods	InStore	amazon verktøy	NOK	815
-     78	2013-09-01	Service	InStore	amazon verktøy	NOK	369
-     79	2013-09-01	Service	InStore	amazon verktøy	NOK	740
-     80	2013-09-01	Service	Online	petters bøker	NOK	51
-     81	2013-09-01	Service	InStore	amazon blomster	NOK	659
-     82	2013-09-01	Goods	InStore	amazon bøker	AUD	677
-     83	2013-09-01	Goods	Online	karis blomster	AUD	527
-     84	2013-09-01	Service	InStore	amazon blomster	NOK	201
-     85	2013-09-01	Goods	Online	karis verktøy	AUD	490
-     86	2013-09-01	Service	InStore	petters bøker	NOK	46
-     87	2013-09-01	Service	Online	amazon bøker	AUD	212
-     88	2013-09-01	Service	Online	amazon blomster	EUR	994
-     89	2013-09-01	Goods	Online	petters bøker	NOK	107
-     90	2013-09-01	Service	InStore	petters verktøy	NOK	721
-     91	2013-09-01	Service	InStore	karis verktøy	AUD	936
-     92	2013-09-01	Service	InStore	amazon verktøy	NOK	909
-     93	2013-09-01	Service	Online	karis blomster	NOK	747
-     94	2013-09-01	Goods	Online	karis bøker	NOK	392
-     95	2013-09-01	Goods	InStore	karis bøker	NOK	374
-     96	2013-09-01	Service	InStore	karis bøker	EUR	689
-     97	2013-09-01	Goods	InStore	amazon blomster	EUR	154
-     98	2013-09-01	Service	InStore	amazon bøker	NOK	360
-     99	2013-09-01	Service	Online	amazon verktøy	NOK	62
-    100	2013-09-01	Goods	InStore	karis blomster	AUD	917
+      1	2013-09-01	petters verktøy	GBP	738
+      2	2013-09-01	petters bøker	GBP	119
+      3	2013-09-01	amazon bøker	NOK	844
+      4	2013-09-01	karis verktøy	NOK	268
+      5	2013-09-01	amazon bøker	GBP	595
+      6	2013-09-01	karis verktøy	NOK	330
+      7	2013-09-01	amazon bøker	NOK	971
+      8	2013-09-01	amazon verktøy	NOK	335
+      9	2013-09-01	petters verktøy	GBP	920
+     10	2013-09-01	petters verktøy	NOK	888
+     11	2013-09-01	petters blomster	NOK	205
+     12	2013-09-01	karis bøker	NOK	498
+     13	2013-09-01	amazon blomster	NOK	468
+     14	2013-09-01	karis bøker	GBP	791
+     15	2013-09-01	amazon bøker	NOK	676
+     16	2013-09-01	petters verktøy	AUD	867
+     17	2013-09-01	karis bøker	AUD	42
+     18	2013-09-01	karis verktøy	NOK	681
+     19	2013-09-01	karis blomster	NOK	477
+     20	2013-09-01	petters blomster	NOK	252
+     21	2013-09-01	petters blomster	NOK	425
+     22	2013-09-01	amazon verktøy	NOK	837
+     23	2013-09-01	karis verktøy	NOK	345
+     24	2013-09-01	petters bøker	NOK	297
+     25	2013-09-01	karis verktøy	NOK	490
+     26	2013-09-01	petters blomster	EUR	122
+     27	2013-09-01	karis bøker	NOK	753
+     28	2013-09-01	petters blomster	NOK	890
+     29	2013-09-01	karis blomster	NOK	79
+     30	2013-09-01	petters verktøy	NOK	293
+     31	2013-09-01	amazon verktøy	NOK	53
+     32	2013-09-01	petters bøker	NOK	433
+     33	2013-09-01	karis bøker	GBP	376
+     34	2013-09-01	petters blomster	NOK	168
+     35	2013-09-01	petters blomster	AUD	417
+     36	2013-09-01	amazon verktøy	NOK	288
+     37	2013-09-01	karis verktøy	NOK	441
+     38	2013-09-01	petters verktøy	NOK	768
+     39	2013-09-01	petters bøker	NOK	76
+     40	2013-09-01	karis bøker	NOK	277
+     41	2013-09-01	petters bøker	NOK	126
+     42	2013-09-01	amazon blomster	GBP	527
+     43	2013-09-01	karis bøker	NOK	771
+     44	2013-09-01	karis blomster	EUR	477
+     45	2013-09-01	amazon blomster	AUD	701
+     46	2013-09-01	karis verktøy	NOK	40
+     47	2013-09-01	petters bøker	GBP	793
+     48	2013-09-01	karis blomster	AUD	289
+     49	2013-09-01	karis bøker	GBP	883
+     50	2013-09-01	amazon blomster	AUD	800
+     51	2013-09-01	petters bøker	NOK	142
+     52	2013-09-01	karis blomster	NOK	307
+     53	2013-09-01	karis blomster	GBP	290
+     54	2013-09-01	karis verktøy	NOK	524
+     55	2013-09-01	amazon blomster	NOK	379
+     56	2013-09-01	karis blomster	NOK	842
+     57	2013-09-01	karis blomster	NOK	544
+     58	2013-09-01	karis bøker	NOK	542
+     59	2013-09-01	petters bøker	NOK	399
+     60	2013-09-01	petters bøker	AUD	494
+     61	2013-09-01	karis verktøy	NOK	312
+     62	2013-09-01	amazon blomster	EUR	603
+     63	2013-09-01	amazon verktøy	GBP	978
+     64	2013-09-01	amazon bøker	NOK	955
+     65	2013-09-01	karis bøker	NOK	831
+     66	2013-09-01	petters verktøy	NOK	148
+     67	2013-09-01	karis bøker	EUR	2
+     68	2013-09-01	karis bøker	EUR	147
+     69	2013-09-01	karis bøker	GBP	16
+     70	2013-09-01	karis blomster	NOK	503
+     71	2013-09-01	amazon blomster	NOK	853
+     72	2013-09-01	karis bøker	NOK	809
+     73	2013-09-01	amazon bøker	NOK	61
+     74	2013-09-01	karis bøker	NOK	927
+     75	2013-09-01	petters verktøy	NOK	955
+     76	2013-09-01	karis blomster	NOK	568
+     77	2013-09-01	petters blomster	NOK	915
+     78	2013-09-01	petters blomster	NOK	479
+     79	2013-09-01	petters verktøy	GBP	449
+     80	2013-09-01	karis bøker	NOK	76
+     81	2013-09-01	karis verktøy	NOK	513
+     82	2013-09-01	petters bøker	NOK	950
+     83	2013-09-01	petters verktøy	AUD	50
+     84	2013-09-01	petters verktøy	NOK	526
+     85	2013-09-01	petters blomster	NOK	820
+     86	2013-09-01	petters bøker	NOK	534
+     87	2013-09-01	petters bøker	GBP	692
+     88	2013-09-01	amazon bøker	NOK	752
+     89	2013-09-01	petters bøker	GBP	364
+     90	2013-09-01	amazon blomster	NOK	461
+     91	2013-09-01	petters verktøy	NOK	140
+     92	2013-09-01	petters blomster	GBP	597
+     93	2013-09-01	karis verktøy	NOK	111
+     94	2013-09-01	karis verktøy	NOK	361
+     95	2013-09-01	amazon verktøy	GBP	58
+     96	2013-09-01	amazon verktøy	NOK	57
+     97	2013-09-01	petters blomster	NOK	95
+     98	2013-09-01	karis verktøy	NOK	54
+     99	2013-09-01	petters blomster	NOK	24
+    100	2013-09-01	karis blomster	NOK	308
