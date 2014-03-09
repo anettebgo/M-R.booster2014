@@ -4,7 +4,8 @@ data.size = 100000
 
 id = format(seq.int(from=1, to=data.size, by=1), scientific=FALSE)
 
-date = as.character(seq(as.Date("2013/9/1"), as.Date("2013/9/30"), length.out=data.size))
+order.date = as.character(seq(as.Date("2013/9/1"), as.Date("2013/9/30"), length.out=data.size))
+delivery.date = as.character(seq(as.Date("2013/9/8"), as.Date("2013/10/7"), length.out=data.size))
 
 first = c('petters', 'amazon', 'karis')
 last = c('blomster', 'bøker', 'verktøy')
@@ -22,7 +23,10 @@ recipient.last = c('singh', 'smith', 'saksevik', 'surrehode')
 recipient.name = paste(sample(recipient.first, size=data.size, replace=TRUE), sample(recipient.last, size=data.size, replace=TRUE))
 
 recipient.address = paste(sample(number, size=data.size, replace=TRUE), sample(street, size=data.size, replace=TRUE))
+declared.value = sample.int(999, size=data.size, replace=TRUE)
 
-data = cbind(id, date, sender.name, sender.address, sender.country, recipient.name, recipient.address)
+data = cbind(id, order.date, delivery.date, sender.name, sender.address, sender.country, recipient.name, recipient.address, declared.value)
+subset = head(data, 20)
 
 write.table(data, file="post.csv", sep="\t", quote=FALSE, row.names=FALSE, col.names=FALSE)
+write.table(subset, file="post_sample_with_headings.csv", sep="\t", quote=FALSE, row.names=FALSE, col.names=TRUE)

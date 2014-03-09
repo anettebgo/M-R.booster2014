@@ -1,0 +1,21 @@
+id	order.date	delivery.date	sender.name	sender.address	sender.country	recipient.name	recipient.address	declared.value
+     1	2013-09-01	2013-09-08	petters bøker	7 bigstreet	Norge	kari saksevik	4 storegaten	601
+     2	2013-09-01	2013-09-08	amazon blomster	9 bigstreet	Norge	petter singh	4 lillegaten	701
+     3	2013-09-01	2013-09-08	amazon blomster	1 storegaten	Norge	sha surrehode	7 lillegaten	298
+     4	2013-09-01	2013-09-08	petters blomster	9 lillegaten	Australia	kari singh	4 bigstreet	146
+     5	2013-09-01	2013-09-08	karis blomster	2 storegaten	Norge	alex surrehode	3 littlestreet	196
+     6	2013-09-01	2013-09-08	karis verktøy	8 bigstreet	Deutschland	alex surrehode	6 lillegaten	64
+     7	2013-09-01	2013-09-08	petters blomster	4 bigstreet	Norge	petter saksevik	11 lillegaten	402
+     8	2013-09-01	2013-09-08	amazon blomster	11 storegaten	Norge	rob smith	4 storegaten	436
+     9	2013-09-01	2013-09-08	petters blomster	6 littlestreet	Norge	sha saksevik	1 littlestreet	358
+    10	2013-09-01	2013-09-08	amazon verktøy	4 bigstreet	Norge	petter smith	11 littlestreet	925
+    11	2013-09-01	2013-09-08	amazon blomster	8 lillegaten	Norge	kari singh	7 storegaten	67
+    12	2013-09-01	2013-09-08	karis blomster	4 lillegaten	Deutschland	ola smith	11 lillegaten	783
+    13	2013-09-01	2013-09-08	amazon blomster	2 littlestreet	Norge	sha smith	6 littlestreet	102
+    14	2013-09-01	2013-09-08	amazon blomster	8 bigstreet	Norge	kari surrehode	4 littlestreet	817
+    15	2013-09-01	2013-09-08	petters verktøy	10 storegaten	Great Britain	kari saksevik	2 lillegaten	793
+    16	2013-09-01	2013-09-08	karis bøker	6 bigstreet	Norge	ola singh	5 bigstreet	286
+    17	2013-09-01	2013-09-08	amazon bøker	9 storegaten	Great Britain	kari saksevik	6 littlestreet	837
+    18	2013-09-01	2013-09-08	karis verktøy	4 bigstreet	Deutschland	kari surrehode	12 bigstreet	889
+    19	2013-09-01	2013-09-08	karis bøker	2 storegaten	Norge	kari surrehode	5 lillegaten	610
+    20	2013-09-01	2013-09-08	petters blomster	3 lillegaten	Norge	ola singh	11 storegaten	824
