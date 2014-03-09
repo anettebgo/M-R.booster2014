@@ -1,6 +1,6 @@
 #! /usr/bin/env Rscript
 
-data.size = 100000
+data.size = 1000000
 
 id = format(seq.int(from=1, to=data.size, by=1), scientific=FALSE)
 
