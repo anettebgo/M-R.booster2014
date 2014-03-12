@@ -16,7 +16,7 @@ number = seq.int(12)
 sender.address = paste(sample(number, size=data.size, replace=TRUE), sample(street, size=data.size, replace=TRUE))
 
 countries = c('Great Britain', 'Norge', 'Deutschland', 'Australia')
-sender.country = sample(countries, size=data.size, replace=TRUE, prob=c(0.12, 0.66, 0.12, 0.1))
+sender.country = sample(countries, size=data.size, replace=TRUE, prob=c(0.11, 0.68, 0.11, 0.1))
 
 recipient.first = c('ola', 'kari', 'petter', 'alex', 'sha', 'rob')
 recipient.last = c('singh', 'smith', 'saksevik', 'surrehode')
